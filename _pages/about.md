@@ -7,39 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Michele, a quantitative researcher working at the intersection of psychology, statistics, and machine learning.
+👋 Hi, I'm Michele, a quantitative researcher working across quantitative psychology, data science, cognitive science, and machine learning.
 
-I hold a PhD in Brain and Cognitive Sciences from the University of Trento (CIMeC) and the Italian Institute of Technology, with a visiting research period at the University of Oxford's Wellcome Centre for Integrative Neuroimaging. I'm also completing an MSc in Data Science, which has sharpened the engineering side of my work: cleaner pipelines, better tooling, more reproducible analysis.
+I design studies, build and validate measurement tools, and turn behavioral data into models that hold up under scrutiny. My PhD looked at attention and cognition, and part of that work took me abroad, doing neuroimaging research on how the brain predicts behavior.
 
-My background combines experimental psychology, psychometrics, applied machine learning and NLP, computational social science, and complex network science. I use this combination to design rigorous studies, build measurement tools that actually hold up across populations, and develop models that predict how people behave rather than how we assume they behave.
+A lot of research on human behavior loses something at the handoff between disciplines. A well-designed study gets passed to a data team without the context of why certain choices were made. A survey gets used to compare groups without anyone checking whether it actually measures the same thing in each of them. I work across these steps myself, so that context doesn't get lost along the way.
 
 ## What I do
 
-🧪 **Experimentation and causal inference.** Designing studies that isolate real effects from noise: A/B-style testing, mixed-effects models, quasi-experimental designs, sampling and randomization strategies.
+🧪 **Experimentation and causal inference.** Study design that isolates real effects from noise: A/B-style testing, mixed-effects models, quasi-experimental designs, sampling and randomization.
 
-📊 **Survey science and psychometrics.** Building and validating measurement instruments at scale, sometimes with tens of thousands of respondents. This includes checking that a survey works the same way across different countries or demographic groups, so comparisons between them actually mean something.
+📊 **Survey science and psychometrics.** Building and validating measurement instruments at scale, sometimes with tens of thousands of respondents, and checking that a survey holds up the same way across countries or demographic groups so comparisons actually mean something.
 
-🤖 **Applied ML and NLP.** Mostly in Python (pandas, scikit-learn, statsmodels) and R. I build text classification pipelines, evaluate language models, and keep explainability central rather than treating models as black boxes.
+🤖 **Applied ML and NLP.** Mostly Python (pandas, scikit-learn, statsmodels) and R. I build text classification pipelines and evaluate language models, and I try to keep the reasoning behind a model visible instead of treating it as a black box.
 
-🧠 **Machine psychology.** I test AI language models like ChatGPT or Claude using the same experimental methods psychologists use on people. This means putting these systems under controlled conditions to see how they respond, and how much their outputs can actually be trusted, rather than assuming they reason the way a person would.
+🧠 **Machine psychology.** Testing AI language models like ChatGPT or Claude with the same experimental methods psychologists use on people, to see how they actually respond under controlled conditions and how much their outputs can be trusted.
 
-🕸️ **Complex network science.** I map language and behavior as networks of interconnected concepts rather than isolated data points. This often surfaces structure and patterns that standard statistics miss entirely.
+🕸️ **Complex network science.** Mapping language and behavior as networks of connected concepts rather than isolated data points, which tends to surface structure that standard statistics miss.
 
-🗣️ **Mixed methods.** Semi-structured interviews and moderated user sessions, combined with quantitative analysis so qualitative insight and hard numbers inform each other rather than sitting in separate reports.
+🗣️ **Mixed methods.** Semi-structured interviews and moderated user sessions alongside the quantitative work, so the qualitative picture and the numbers actually talk to each other.
 
 ## Some examples
 
-📈 I modeled individual-level behavioral variability using multivariate statistics, mixed-effects models (lmer/glmer in R), and dimensionality reduction, across more than 180 participant sessions. One analysis found a repeatable 10% performance gain and traced it back to a single underlying cause, giving the team clear direction on which method to keep using.
+📈 I modeled individual-level behavioral variability using multivariate statistics, mixed-effects models (lmer/glmer in R), and dimensionality reduction across more than 180 participant sessions. One analysis turned up a repeatable 10% performance gain and traced it to a single cause, which gave the team a clear answer on which method to keep.
 
-✅ I validated a 42-item behavioral instrument on 39,775 respondents, combining classical psychometric methods with machine learning based feature selection (Random Forest) to shorten the survey without losing its predictive power, which matters when you're trying to reduce respondent fatigue.
+✅ I validated a 42-item behavioral instrument on 39,775 respondents. Combining classical psychometrics with ML-based feature selection (Random Forest) let us shorten the survey without losing its predictive power, which matters a lot once you're worried about respondent fatigue.
 
-🌍 I established measurement invariance across sex and country on a multilingual sample of 1,420 people. In practice, this means that when two groups are compared on this instrument, the differences reflect genuine behavioral variation rather than quirks in how the survey was interpreted.
+🌍 I established measurement invariance across sex and country on a multilingual sample of 1,420 people, so that when you compare two groups on this instrument, what you're seeing is a real behavioral difference and not an artifact of how the survey was interpreted.
 
-🧠 I built an NLP pipeline extracting psychological and linguistic features from text, reaching 97% classification accuracy at first pass. Digging deeper, I found the model was picking up stylistic fingerprints from AI generated text rather than genuine clinical signal. Catching that early avoided a decision built on a misleading number and turned into a useful methodological finding in its own right.
+🧠 I built an NLP pipeline that extracts psychological and linguistic features from text and got it to 97% classification accuracy on the first pass. Digging into why, I found the model was picking up on stylistic fingerprints of AI-generated text rather than any genuine clinical signal. Catching that early meant we didn't act on a misleading number, and it turned into a useful finding about the method itself.
 
+## Publications
+
+My first-author paper appeared in the Journal of Cognitive Neuroscience (Tosi et al., 2026). The full list, with citation metrics, is on my [Google Scholar profile](https://scholar.google.com/citations?user=cat8crYAAAAJ&hl=en).
 
 ## Let's talk
 
-I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe/US. If any of this overlaps with what your team needs, I'd be glad to talk.
+I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe. If any of this overlaps with what your team needs, I'd be glad to talk.
 
 📬 Get in touch: [michele.tosi1995@gmail.com](mailto:michele.tosi1995@gmail.com)
