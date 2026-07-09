@@ -39,7 +39,7 @@ Beyond classical quantitative methods, I apply NLP techniques to extract explain
 
 🌍 I established measurement invariance across sex and country on a multilingual sample of 1,420 people, so that when you compare two groups on this instrument, what you're seeing is a real behavioral difference and not an artifact of how the survey was interpreted.
 
-🧠 I built an NLP pipeline that extracts psychological and linguistic features from text and got it to 97% classification accuracy on the first pass. Digging into why, I found the model was picking up on stylistic fingerprints of AI-generated text rather than any genuine clinical signal. Catching that early meant we didn't act on a misleading number, and it turned into a useful finding about the method itself.
+🧠 I built an NLP pipeline that extracts psychological, numerical and linguistic features from text. This is useful for linking behaviors measured through surveys to information that can be extracted from text (such as user reviews). What emotions are expressed in the text? With what intensity? Is it possible to predict a behavioral trajectory? These are some of the questions that can be answered using these methods.
 
 
 ## Let's talk
