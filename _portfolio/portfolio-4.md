@@ -1,11 +1,11 @@
 ---
-title: "Modeling Individual Differences in Behavioral Experiments"
-excerpt: "Statistical modeling that accounts for the fact that different people respond differently to the same task, the same problem behind well-designed A/B tests."
+title: "Simpler, More Transparent Text Classification"
+excerpt: "Compared a compact, explainable set of text features against a much bigger, harder to interpret model, and got comparable results."
 collection: portfolio
 ---
 
-Every experiment has the same challenge: people don't all react the same way to the same situation. This project models a behavioral experiment (about 500 trials per participant) using statistical models that separate what's true for everyone from what varies from person to person. It's the same underlying logic used in properly designed A/B tests, where the same user is measured multiple times and simple averages can be misleading.
+When classifying text (for example, sorting feedback, messages, or open-ended survey answers into categories), the default approach is often to throw thousands of word-based features at the problem. This project tested a smaller, hand-picked set of features that are easy to explain against that bigger, harder-to-interpret approach, with careful checks to make sure the results were solid and not just a lucky split of the data.
 
-**What this shows:** the ability to design and analyze experiments correctly when people are measured repeatedly, avoiding the common mistake of treating those repeated measurements as if they were independent.
+**What this shows:** that better accuracy isn't the only thing that matters, being able to explain why a model made a decision is often just as important, especially when someone needs to trust or act on the result.
 
-[View on GitHub](https://github.com/MikeNeuroquant/mixed-models-behavioral-experiment)
+[View on GitHub](https://github.com/MikeNeuroquant/text-classification-feature-engineering)

@@ -1,11 +1,11 @@
 ---
-title: "Simpler, More Transparent Text Classification"
-excerpt: "Compared a compact, explainable set of text features against a much bigger, harder to interpret model, and got comparable results."
+title: "Shortening Long Surveys Without Losing What Matters"
+excerpt: "Identified which questions in a long survey actually carry predictive weight, so the survey can be made shorter without losing accuracy."
 collection: portfolio
 ---
 
-When classifying text (for example, sorting feedback, messages, or open-ended survey answers into categories), the default approach is often to throw thousands of word-based features at the problem. This project tested a smaller, hand-picked set of features that are easy to explain against that bigger, harder-to-interpret approach, with careful checks to make sure the results were solid and not just a lucky split of the data.
+Long surveys cause a real problem: people get tired, rush through the last questions, or abandon the survey altogether. This project tackled that by ranking every item in a questionnaire by how much predictive value it actually adds, then testing how much of the survey could be cut while still getting the same quality of answer.
 
-**What this shows:** that better accuracy isn't the only thing that matters, being able to explain why a model made a decision is often just as important, especially when someone needs to trust or act on the result.
+**What this shows:** a practical, data-driven way to make surveys shorter and less annoying for respondents, without guessing which questions to cut.
 
-[View on GitHub](https://github.com/MikeNeuroquant/text-classification-feature-engineering)
+[View on GitHub](https://github.com/MikeNeuroquant/survey-item-importance)

@@ -1,11 +1,11 @@
 ---
-title: "Reading Brain Signals During an Attention Task"
-excerpt: "Turned raw brainwave recordings into clean, usable data during a task measuring attention."
+title: "Interactive Task App With Live Feedback"
+excerpt: "Built a working app for structured practice tasks, with real-time feedback and full activity logging."
 collection: portfolio
 ---
 
-This project processes EEG data, brainwave recordings picked up through sensors on the scalp, collected while people did a task designed to measure visual attention. Raw brain data is extremely noisy, full of signal from blinks, muscle movement, and electrical interference. This pipeline cleans that noise out and turns the recording into a small set of reliable, meaningful measurements tied to specific moments in the task.
+An interactive application that runs structured practice tasks (like naming images, spelling, or identifying letters) and gives the user real-time feedback as they go, while logging everything that happens during the session for later analysis.
 
-**What this shows:** the ability to work with physiological data directly, not just self-reported answers, the same kind of measurement problem behind neurotech and biometric-driven human factors research.
+**What this shows:** the ability to go beyond analysis and actually build a working, user-facing tool from scratch, one that collects clean, structured data by design rather than needing to be cleaned up afterward.
 
-[View on GitHub](https://github.com/MikeNeuroquant/neurotech_pipeline_demo)
+[View on GitHub](https://github.com/MikeNeuroquant/behavioral-task-demo)
