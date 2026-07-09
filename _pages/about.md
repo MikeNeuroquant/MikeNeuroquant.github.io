@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Michele, a quantitative researcher working across quantitative psychology, data science, cognitive science, and machine learning.
+👋 Hi, I'm Michele. I’m a quantitative researcher who bridges the gap between cognitive science, data science, and machine learning.
 
-I design studies, build and validate measurement tools, and turn behavioral data into models that hold up under scrutiny. My PhD looked at attention and cognition, and part of that work took me abroad, doing neuroimaging research on how the brain predicts behavior.
+In research, critical context is often lost when a study is handed off between disciplines. A well-designed experiment goes to a data team that doesn't know the rationale behind it. A survey gets applied across a demographic sample without anyone checking if it actually measures the same thing for everyone.
 
-A lot of research on human behavior loses something at the handoff between disciplines. A well-designed study gets passed to a data team without the context of why certain choices were made. A survey gets used to compare groups without anyone checking whether it actually measures the same thing in each of them. I work across these steps myself, so that context doesn't get lost along the way.
+I solve this by managing the process end-to-end. I design the studies, validate the measurement tools, and build the statistical models myself, ensuring the original behavioral context is never lost. With a background in quantitative psychology, I build efficient data pipelines and integrate AI as an analytical assistant to turn human behavior into reliable insights.
 
 ## What I do
 
@@ -37,12 +37,9 @@ A lot of research on human behavior loses something at the handoff between disci
 
 🧠 I built an NLP pipeline that extracts psychological and linguistic features from text and got it to 97% classification accuracy on the first pass. Digging into why, I found the model was picking up on stylistic fingerprints of AI-generated text rather than any genuine clinical signal. Catching that early meant we didn't act on a misleading number, and it turned into a useful finding about the method itself.
 
-## Publications
-
-My first-author paper appeared in the Journal of Cognitive Neuroscience (Tosi et al., 2026). The full list, with citation metrics, is on my [Google Scholar profile](https://scholar.google.com/citations?user=cat8crYAAAAJ&hl=en).
 
 ## Let's talk
 
-I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe. If any of this overlaps with what your team needs, I'd be glad to talk.
+I'm open to conversations about quantitative research, behavioral data science, and insights analytics roles across Europe/US. If any of this overlaps with what your team needs, I'd be glad to talk.
 
 📬 Get in touch: [michele.tosi1995@gmail.com](mailto:michele.tosi1995@gmail.com)
