@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "dirt"
 title                    : "Michele Tosi, PhD"
 title_separator          : "-"
 name                     : &name "Michele Tosi, PhD"
