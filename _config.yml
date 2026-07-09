@@ -5,7 +5,7 @@ site_theme               : "air"
 title                    : "Michele Tosi, PhD"
 title_separator          : "-"
 name                     : &name "Michele Tosi, PhD"
-description              : &description "Quantitative UX Researcher — Behavioral Prediction, Psychometrics, and Applied ML"
+description              : &description "Quantitative UX Researcher — Behavioral Prediction, Surveys analytics, and Applied ML/NLP"
 url                      : https://mikeneuroquant.github.io
 baseurl                  : ""
 repository               : "MikeNeuroquant/MikeNeuroquant"
