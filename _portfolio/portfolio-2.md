@@ -10,6 +10,6 @@ Applies wherever there's open-text data to quantify, survey verbatims, customer 
 
 A model that predicts too well is often a warning sign, so the project includes a step-by-step check of which features actually drove the result.
 
-**What this shows:** turning raw text into interpretable signal, and validating it before trusting it.
+**What this shows:** turning raw text (such as user reviews for a product) into quantitative interpretable signal, and validating it before trusting it.
 
 [View full project on GitHub](https://github.com/MikeNeuroquant/text-network-emotion-classification)
