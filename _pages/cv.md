@@ -30,10 +30,10 @@ Delivered survey infrastructure and psychometric validation end-to-end; behavior
 
 ## Education
 
-- **PhD in Brain and Cognitive Sciences** — University of Trento (CIMeC), 2021–2026  
-- **MSc in Data Science** — University of Trento, expected 2026  
-- **MSc in Cognitive Psychology** — University of Padova, 2018–2020  
-- **BSc in Industrial/Organizational Psychology** — University of Verona, 2014–2018  
+- **PhD in Brain and Cognitive Sciences** — University of Trento (CIMeC)
+- **MSc in Data Science** — University of Trento,  
+- **MSc in Cognitive Psychology** — University of Padova
+- **BSc in Industrial/Organizational Psychology** — University of Verona, 
 
 ## Additional Training
 
