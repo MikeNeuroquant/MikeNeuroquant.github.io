@@ -1,5 +1,5 @@
 ---
-title: "Simpler, More Transparent Text Classification"
+title: "Interpretable NLP: Compact Feature Engineering Over Black-Box Complexity"
 excerpt: "Compared a compact, explainable set of text features against a much bigger, harder to interpret model, and got comparable results."
 collection: portfolio
 ---
