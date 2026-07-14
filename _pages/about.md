@@ -41,4 +41,4 @@ redirect_from:
 
 I'm open to conversations about quantitative research, behavioral data science and insights roles across Europe and the US. If this overlaps with what your team needs, I'd be glad to talk.
 
-📬 [michele.tosi1995@gmail.com](mailto:michele.tosi1995@gmail.com)
+📬 [michele.tosi1995@gmail.com](mailtoi19:m.tosi.quant@gmail.com)
